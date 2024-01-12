@@ -26,7 +26,7 @@ https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/studium/archiv/ws1
   as reference maps, and using these reference maps, running the function again, the function will backfit the individual microstates to these maps.
 
 
-- ![](drawio_etc\creating_backfitted_microstates.png)
+- ![ScreenShot](drawio_etc\creating_backfitted_microstates.png)
 
 
 

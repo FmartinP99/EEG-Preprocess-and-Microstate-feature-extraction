@@ -1,0 +1,3 @@
+id,microstate_D,invert_microstate_D_polarity,microstate_D2,invert_microstate_D2_polarity,microstate_C,invert_microstate_C_polarity,microstate_A,invert_microstate_A_polarity
+h01,D,False,B,True,C,True,MISSING,MISSING
+h02,D,True,A,True,B,False,C,False

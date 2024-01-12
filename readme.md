@@ -26,7 +26,7 @@ https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/studium/archiv/ws1
   as reference maps, and using these reference maps, running the function again, the function will backfit the individual microstates to these maps.
 
 
-- ![Image](https://raw.githubusercontent.com/FmartinP99/EEG-Preprocess-and-Microstate-feature-extraction/master/drawio_etc/creating_backfitted_microstates.png)
+- ![Image](/drawio_etc/creating_backfitted_microstates.png)
 
 
 
